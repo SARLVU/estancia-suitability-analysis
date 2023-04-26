@@ -20,7 +20,7 @@ The remains of historic ranches, or “estancias” as they are called in the lo
 
 The data for this project was manually collected via the GeoPACHA platform. The data itself is not public and has not been made available in this repository. It is referred to in the code as "Estancias_corrals_from_sat_imagery.csv","Southwest_survey_polygon.shp", and "wernke_logres.csv". The data consists of the longitude-latitude coordinates of 9,500 estancias in the survey region.
 
-<img width="214" alt="image" src="https://user-images.githubusercontent.com/46304188/234697706-6a266109-ba0c-40a7-9eee-f4dbccabb823.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/46304188/234697706-6a266109-ba0c-40a7-9eee-f4dbccabb823.png">
 
 
 
